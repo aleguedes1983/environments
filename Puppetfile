@@ -23,6 +23,10 @@ mod 'puppet-memcached',
   :git => 'https://github.com/aleguedes1983/puppet-memcached.git',
   :branch => 'production'
 
+mod 'puppet-balancer',
+  :git => 'https://github.com/aleguedes1983/puppet-balancer.git',
+  :branch => 'production'
+
 #mod 'puppet-balancer',
 #  :git => 'https://github.com/aleguedes1983/puppet-balancer.git',
 #  :branch => 'production'
